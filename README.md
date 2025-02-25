@@ -1,49 +1,65 @@
-FlowState
+# FlowState
+
 FlowState is a mood-based productivity app built with Swift and SwiftUI that intelligently adapts task recommendations based on your current emotional state.
-Features
 
-Mood Tracking: Track your current mood and receive personalized task suggestions
-Task Management: Add, edit, and organize tasks based on priority and due dates
-Intelligent Recommendations: Get task suggestions that match your energy level and focus ability
-Visual Analytics: View productivity statistics by mood to understand your work patterns
-Sleek UI: Enjoy a beautiful, intuitive interface with smooth animations
+## Features
 
-Screenshots
+- **Mood Tracking**: Track your current mood and receive personalized task suggestions
+- **Task Management**: Add, edit, and organize tasks based on priority and due dates
+- **Intelligent Recommendations**: Get task suggestions that match your energy level and focus ability
+- **Visual Analytics**: View productivity statistics by mood to understand your work patterns
+- **Sleek UI**: Enjoy a beautiful, intuitive interface with smooth animations
+
+## Screenshots
+
 [Screenshots to be added]
-Technologies
 
-Swift
-SwiftUI
-UserDefaults for local data persistence
-Custom animations and transitions
+## Technologies
 
-Requirements
+- Swift
+- SwiftUI
+- UserDefaults for local data persistence
+- Custom animations and transitions
 
-iOS 15.0+
-Xcode 13.0+
+## Requirements
 
-Installation
+- iOS 15.0+
+- Xcode 13.0+
 
-Clone the repository:
+## Installation
 
-Copygit clone https://github.com/IsaacKeen1/flow-state.git
+1. Clone the repository:
+git clone https://github.com/IsaacKeen1/flow-state.git
+2. Open `FlowState.xcodeproj` in Xcode
 
-Open FlowState.xcodeproj in Xcode
-Build and run the application on your simulator or device
+3. Build and run the application on your simulator or device
 
-Usage
+## Usage
 
-Start by selecting your current mood on the mood selection screen
-View recommended tasks based on your mood
-Add your own tasks with priorities and due dates
-Complete tasks to track your productivity
-View statistics to understand your productivity patterns across different moods
+1. Start by selecting your current mood on the mood selection screen
+2. View recommended tasks based on your mood
+3. Add your own tasks with priorities and due dates
+4. Complete tasks to track your productivity
+5. View statistics to understand your productivity patterns across different moods
 
-Roadmap
+## Roadmap
 
-Task notifications
-Search functionality
-Enhanced task recommendations
-Long-term goal tracking
-Cloud sync
+- Task notifications
+- Search functionality
+- Enhanced task recommendations
+- Long-term goal tracking
+- Cloud sync
 
+## License
+
+[License information to be added]
+
+## Contact
+
+Isaac Keen - [Contact information to be added]
+
+Project Link: [https://github.com/IsaacKeen1/flow-state](https://github.com/IsaacKeen1/flow-state)
+
+## Acknowledgments
+
+- [Any acknowledgments to be added]
