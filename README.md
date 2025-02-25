@@ -50,16 +50,8 @@ git clone https://github.com/IsaacKeen1/flow-state.git
 - Long-term goal tracking
 - Cloud sync
 
-## License
-
-[License information to be added]
-
 ## Contact
 
-Isaac Keen - [Contact information to be added]
+Isaac Keen - IsaacKeen2004@gmail.com
 
 Project Link: [https://github.com/IsaacKeen1/flow-state](https://github.com/IsaacKeen1/flow-state)
-
-## Acknowledgments
-
-- [Any acknowledgments to be added]
